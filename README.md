@@ -8,9 +8,10 @@ please clean install  before running
 Run the 'Test scenarios' located on 'src\test\Main.java' 
 
 Running:
-before running, config the 'TestG running configuration' to:
+- before running, config the 'TestG running configuration' to:
 VM options: '-ea -Dtestng.dtd.http=true'
-Please create a 'temp' folder under c:\ for the file creation.
+- Please create a 'temp' folder under c:\ for the file creation.
+- Please mark the 'src' folder as a 'Sources' (file -> project structure -> modules -> select the 'src' folder -> mark as 'sources'
 
 
 Dependencies (managed by mvn):
